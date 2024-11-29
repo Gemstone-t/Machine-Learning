@@ -1,0 +1,74 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment directories
+env/
+venv/
+
+# Distribution and packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variable files
+.env
+*.env
+
+# Python cache
+.cache/
+__pycache__/
+
+# Test and coverage files
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+htmlcov/
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.orig
+*.rej
+
+# MyPy type-checking cache
+.mypy_cache/
+.dmypy.json
+
+# Pytest cache
+.pytest_cache/
+
+# Profiling data
+.prof
+
+# Flask-specific files
+instance/
+*.sqlite3
+*.db
+*.sql
