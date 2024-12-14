@@ -72,3 +72,6 @@ instance/
 *.sqlite3
 *.db
 *.sql
+
+# Model folders
+models/
